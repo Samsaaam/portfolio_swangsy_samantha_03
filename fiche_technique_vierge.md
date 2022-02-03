@@ -20,7 +20,7 @@
 
 - Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
-- Expérience vécue :
+# Expérience vécue :
 
 - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
