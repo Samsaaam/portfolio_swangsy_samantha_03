@@ -26,8 +26,11 @@ Dès l'entrée de la salle, il est possible de voir trois grands écrans blancs 
 Installation audiovisuelle; projection HD, 6.1ch système de son surround, transducteur tactile, loop de 8 min
 
 ##  Liste des éléments nécessaires pour la mise en exposition
-cordes de soutient pour les écrans, bois pour la plateforme, tape electrique pour cacher les fils électriques, 
+cordes de soutient pour les écrans, bois pour la plateforme, tape electrique pour cacher les fils électriques
 
 # Expérience vécue
 
 ## Description de votre expérience 
+C'était vraiment intriguant, la première fois que j'ai vue les images projetées je les trouvaient esthétiquement beaux, 
+
+
