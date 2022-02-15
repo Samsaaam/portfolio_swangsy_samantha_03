@@ -23,7 +23,7 @@ Inspirée par les dernières découvertes dans le domaine de l'astrophysique, l'
 Dès l'entrée de la salle, il est possible de voir trois grands écrans blancs en angle avec des images projeter dessus, ainsi qu'une plateforme en face de ces écrans. Après nous remarquons les choses plus secondaires telles que les speakers et la plateforme. Ensuite si on essaye de faire le tour de l'installation et d'observer tous son alentour il est possible de voir les fils scotcher sur le plancher, les cordes qui tiennent les écrans au plafond, les projecteurs aussi installés au plafond et plusieurs boîtes et l'ordinateur qui s'occupe des images projeter, brancher à l'arrière de l'installation.
 
 ## Liste des composantes et techniques de l'oeuvre / du dispositif 
-
+Installation audiovisuelle; projection HD, 6.1ch système de son surround, transducteur tactile, loop de 8 min
 
 ##  Liste des éléments nécessaires pour la mise en exposition
 --
