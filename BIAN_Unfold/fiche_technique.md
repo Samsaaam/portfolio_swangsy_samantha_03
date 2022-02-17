@@ -44,7 +44,7 @@ cordes de soutient pour les écrans, bois pour la plateforme, tape electrique po
 # Photographies et croquis a intégrer :
 
 ### Photographies de l'oeuvre / dispositif dans son ensemble
---
+![Image]()
 
 ### Photographies des composantes de l'oeuvre
 --
