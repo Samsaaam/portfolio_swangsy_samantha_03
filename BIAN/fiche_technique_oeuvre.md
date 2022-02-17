@@ -31,7 +31,7 @@ cordes de soutient pour les écrans, bois pour la plateforme, tape electrique po
 # Expérience vécue
 
 ## Description de votre expérience 
-C'était vraiment intriguant, la première fois que j'ai vue les images projetées je les trouvaient esthétiquement beaux, 
+
 
 ## Ce qui vous a plu, vous a donné des idées, justifiez
 --
