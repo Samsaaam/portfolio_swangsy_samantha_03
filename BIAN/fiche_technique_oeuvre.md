@@ -33,4 +33,36 @@ cordes de soutient pour les écrans, bois pour la plateforme, tape electrique po
 ## Description de votre expérience 
 C'était vraiment intriguant, la première fois que j'ai vue les images projetées je les trouvaient esthétiquement beaux, 
 
+## Ce qui vous a plu, vous a donné des idées, justifiez
+--
+
+## Aspect du projet a ne pas retenir pour propre réalisation, justifiez
+--
+
+## Références
+--
+
+# Photographies et croquis a intégrer :
+
+## Photographies de l'oeuvre / dispositif dans son ensemble
+--
+
+## Photographies des composantes de l'oeuvre
+--
+
+## Photographies des éléments nécessaires à sa mise en place
+--
+
+## Photographie du cartel / panneau explicatif
+--
+
+## Autoportrait de vous avec l'oeuvre
+--
+
+## Croquis de la mise en espace 
+--
+
+## Court vidéos pour documenter les actions / l'intéractivité de l'oeuvre
+--
+
 
