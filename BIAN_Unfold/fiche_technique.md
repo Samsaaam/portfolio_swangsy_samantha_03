@@ -47,19 +47,19 @@ cordes de soutient pour les écrans, bois pour la plateforme, tape electrique po
 <img src="media_oeuvre/Unfold_02.jpeg" width="700" height="500">
 
 ### Photographies des composantes de l'oeuvre
---
+<img src="media_oeuvre/Unfold_03.jpeg" width="700" height="500">
 
 ### Photographies des éléments nécessaires à sa mise en place
---
+<img src="media_oeuvre/Unfold_03.jpeg" width="700" height="500">
 
 ### Photographie du cartel / panneau explicatif
---
+<img src="media_oeuvre/Unfold_05.jpeg" width="700" height="500">
 
 ### Autoportrait de vous avec l'oeuvre
 --
 
 ### Croquis de la mise en espace 
---
+<img src="media_croquis/croquis.jpg" width="500" height="800">
 
 ### Court vidéos pour documenter les actions / l'intéractivité de l'oeuvre
 --
