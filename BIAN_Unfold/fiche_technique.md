@@ -57,6 +57,8 @@ Le son de l'oeuvre était beaucoup trop fort, malgré qu'ils l'aient baissé lor
 
 ### Autoportrait de vous avec l'oeuvre
 Je n'ai pas d'autoportrait avec l'oeuvre choisi, mais j'ai un autoportrait avec une autre : 
+<br/>
+<img src="media_oeuvre/Oeuvre_squelette.jpg" width="300" height="600">
 
 ### Croquis de la mise en espace 
 <img src="media_croquis/croquis.jpg" width="800" height="500">
