@@ -30,10 +30,10 @@ cordes de soutient pour les écrans, bois pour la plateforme, tape electrique po
 # Expérience vécue
 
 ### Description de votre expérience 
-
+Pour commencer, j'ai vraiment aimer le visuel et le sonore, l'oeuvre a vraiment été immersive et intéressante. Aussi le fait que la projection était faite sur plusieurs angle, ma donner envie de rester coucher et de juste regarder ce qui se passait sur la projection. Par contre, malheureusement pour moi, j'ai un certain mal des transport (motion sickness en anglais qui fait plus de sens) donc regarder la projection tout en sentant la vibration en dessous de moi ma donner un peu mal au coeur apres même pas 5 minutes. 
 
 ### Ce qui vous a plu, vous a donné des idées, justifiez
---
+J'ai adorer la projection, l'utilisation des couleurs dans l'oeuvre, j'aimerais vraiment faire des oeuvres qui sont 
 
 ### Aspect du projet a ne pas retenir pour propre réalisation, justifiez
 Le son de l'oeuvre était beaucoup trop fort, malgré qu'ils l'aient baissé lors de notre visite, de plus la musique et/ou sons des autre installation venait empieter sur cette oeuvre, donc pour changer ce fait, je pense qu'il aurait été intéressant d'utiliser des écouteurs, de mettre l'oeuvre dans une salle insonorisée ou de rajouter des mur, sans vraiment l'entourer pour en faire une salle
