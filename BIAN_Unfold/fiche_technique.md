@@ -1,45 +1,46 @@
 # Présentation de l'oeuvre
 
 ### Nom de l'artiste / de la firme
-Ryoichi Kurokawa
+* Ryoichi Kurokawa
 
 ### Année de réalisation
-2016
+* 2016
 
 ### Nom de l'exposition / de l'événement
-METAMORPHOSIS - Biennale d’art numérique (BIAN)
+* METAMORPHOSIS - Biennale d’art numérique (BIAN)
 
 ### Lieu de mise en exposition
-Arsenal art contemporain
+* Arsenal art contemporain
 
 ### Date de la visite
-10 Février 2022
+* 10 Février 2022
 
 ### Description de l'oeuvre / dispositif multimédia
-Inspirée par les dernières découvertes dans le domaine de l'astrophysique, l'installation immersive et sensorielle de Ryoichi Kurokawa, cherche à traduire en sons, images et vibrations, les phénomènes entourant la formation et l'évolution des étoiles. Avec *unfold*, Ryoichi Kurokawa s'intéresse à la synesthésie, en fusionnant les matériaux sonores et visuels, au service d'un projet art/science inspiré des découvertes récentes. 
+* Inspirée par les dernières découvertes dans le domaine de l'astrophysique, l'installation immersive et sensorielle de Ryoichi Kurokawa, cherche à traduire en sons, images et vibrations, les phénomènes entourant la formation et l'évolution des étoiles. Avec *unfold*, Ryoichi Kurokawa s'intéresse à la synesthésie, en fusionnant les matériaux sonores et visuels, au service d'un projet art/science inspiré des découvertes récentes. </br>
+Source; Cartel explicatif de l'oeuvre
 
 ### Explication sur la mise en espace de l'oeuvre / du dispositif
-Dès l'entrée de la salle, il est possible de voir trois grands écrans blancs en angle avec des images projeter dessus, ainsi qu'une plateforme en face de ces écrans. Après nous remarquons les choses plus secondaires telles que les speakers et la plateforme. Ensuite si on essaye de faire le tour de l'installation et d'observer tous son alentour il est possible de voir les fils scotcher sur le plancher, les cordes qui tiennent les écrans au plafond, les projecteurs aussi installés au plafond et plusieurs boîtes et l'ordinateur qui s'occupe des images projeter, brancher à l'arrière de l'installation.
+* Dès l'entrée de la salle, il est possible de voir trois grands écrans blancs en angle avec des images projeter dessus, ainsi qu'une plateforme en face de ces écrans. Après nous remarquons les choses plus secondaires telles que les speakers et la plateforme. Ensuite si on essaye de faire le tour de l'installation et d'observer tous son alentour il est possible de voir les fils scotcher sur le plancher, les cordes qui tiennent les écrans au plafond, les projecteurs aussi installés au plafond et plusieurs boîtes et l'ordinateur qui s'occupe des images projeter, brancher à l'arrière de l'installation.
 
 ### Liste des composantes et techniques de l'oeuvre / du dispositif 
-Installation audiovisuelle; projection HD, 6.1ch système de son surround, transducteur tactile, loop de 8 min
+* Installation audiovisuelle; projection HD, 6.1ch système de son surround, transducteur tactile, loop de 8 min
 
 ###  Liste des éléments nécessaires pour la mise en exposition
-cordes de soutient pour les écrans, bois pour la plateforme, tape electrique pour cacher les fils électriques
+* Cordes de soutient pour les écrans, bois pour la plateforme, tape electrique pour cacher les fils électriques
 
 # Expérience vécue
 
 ### Description de votre expérience 
-Pour commencer, j'ai vraiment aimer le visuel et le sonore, l'oeuvre a vraiment été immersive et intéressante. Aussi le fait que la projection était faite sur plusieurs angle, ma donner envie de rester coucher et de juste regarder ce qui se passait sur la projection. Par contre, malheureusement pour moi, j'ai un certain mal des transport (motion sickness en anglais qui fait plus de sens) donc regarder la projection tout en sentant la vibration en dessous de moi ma donner un peu mal au coeur apres même pas 5 minutes. 
+* Pour commencer, j'ai vraiment aimer le visuel et le sonore, l'oeuvre a vraiment été immersive et intéressante. Aussi le fait que la projection était faite sur plusieurs angle, ma donner envie de rester coucher et de juste regarder ce qui se passait sur la projection. Par contre, malheureusement pour moi, j'ai le mal des transport (motion sickness en anglais, qui fait plus de sens selon moi) donc regarder la projection tout en sentant la vibration en dessous de moi ma donner un peu mal au coeur après même pas 5 minutes, donc je n'ai pas vraiment eu l'occasion d'apprécier l'oeuvre à son plein potentiel.  
 
 ### Ce qui vous a plu, vous a donné des idées, justifiez
-J'ai adorer la projection, l'utilisation des couleurs dans l'oeuvre, j'aimerais vraiment faire des oeuvres qui sont aussi 
+* J'ai adorer la projection, l'utilisation des couleurs dans l'oeuvre, j'aimerais vraiment faire des oeuvres qui sont aussi hypnotisant, malgré sa simplicité et le temps de la projection. Celle-ci durait 8 minutes et pourtant ont était quand même attiré, les têtes tournaient souvent vers l'oeuvre. De plus, l'utilisation de la musique en accord avec l'image projeter 
 
 ### Aspect du projet a ne pas retenir pour propre réalisation, justifiez
-Le son de l'oeuvre était beaucoup trop fort, malgré qu'ils l'aient baissé lors de notre visite, de plus la musique et/ou sons des autre installation venait empieter sur cette oeuvre, donc pour changer ce fait, je pense qu'il aurait été intéressant d'utiliser des écouteurs, de mettre l'oeuvre dans une salle insonorisée ou de rajouter des mur, sans vraiment l'entourer pour en faire une salle
+* Le son de l'oeuvre était beaucoup trop fort, malgré qu'ils l'aient baissé lors de notre visite, de plus la musique et/ou sons des autre installation venait empieter sur cette oeuvre, donc pour changer ce fait, je pense qu'il aurait été intéressant d'utiliser des écouteurs, de mettre l'oeuvre dans une salle insonorisée ou de rajouter des mur, sans vraiment l'entourer pour en faire une salle
 
 ### Références
---
+* --
 
 # Photographies et croquis a intégrer :
 
