@@ -39,9 +39,6 @@ Source; Cartel explicatif de l'oeuvre
 ### Aspect du projet a ne pas retenir pour propre réalisation, justifiez
 * Le son de l'oeuvre était beaucoup trop fort, malgré qu'ils l'aient baissé lors de notre visite, de plus la musique et/ou sons des autre installation venait empieter sur cette oeuvre, donc pour changer ce fait, je pense qu'il aurait été intéressant d'utiliser des écouteurs, de mettre l'oeuvre dans une salle insonorisée ou de rajouter des mur, sans vraiment l'entourer pour en faire une salle
 
-### Références
-* --
-
 # Photographies et croquis a intégrer :
 
 ### Photographies de l'oeuvre / dispositif dans son ensemble
