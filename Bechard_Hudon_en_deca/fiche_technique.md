@@ -31,7 +31,7 @@ L'oeuvre est situé au plein centre de la salle, et la musique vient de ce derni
 # Expérience vécue : 
 
 ## Description de votre expérience 
---
+C'étais vraiment relaxant, j'ai vraiment aimée l'ambiance que l'endroit émanais. Puisque nous étions invités à toucher l'oeuvre, il était possible de ressentir les vibrations et c'étais vraiment appaisant de juste s'appuyer ou s'assoir tout en touchant l'oeuvre. De plus la musique étais pas trop forte et donc c'étais plus invitant de rester dans l'oeuvre et à l'apprécier.
 
 ## Ce qui vous a plu, vous a donné des idées, justifiez
 --
