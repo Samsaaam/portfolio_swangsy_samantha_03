@@ -1,6 +1,7 @@
 ## Titre de l'oeuvre
 L'en deçà
 
+#### Photographies de l'oeuvre / dispositif dans son ensemble :
 <img src="media_oeuvre/intérieur.jpg" width="400" height="600">
 
 ## Nom de l'artiste / de la firme
@@ -11,6 +12,8 @@ Béchard Hudon
 
 ## Nom de l'exposition / de l'événement
 Configurations du sensible
+
+<img src="media_notes/cartel_exposition.jpg" width="400" height="600">
 
 ## Lieu de mise en exposition
 Maison des arts de Laval
@@ -25,7 +28,7 @@ Cette oeuvre, qui est en contreplaqué, veut inviter le public à le toucher et 
 L'oeuvre est situé au plein centre de la salle, et la musique vient de ce dernier.  
 
 ## Liste des composantes et techniques de l'oeuvre / du dispositif 
-Mac mini
+contreplaqué baltique, transducteurs, amplificateur, interface audio, détecteurs de mouvement, ordinateur, alimentation
 
 ##  Liste des éléments nécessaires pour la mise en exposition
 --
@@ -45,9 +48,6 @@ j'ai vraiment aimer le fais que l'oeuvre est très minimaliste, j'ai aimer juste
 --
 
 # Photographies et croquis a intégrer :
-
-## Photographies de l'oeuvre / dispositif dans son ensemble
---
 
 ## Photographies des composantes de l'oeuvre
 --
