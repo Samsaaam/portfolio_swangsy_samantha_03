@@ -30,6 +30,10 @@ L'oeuvre est situé au plein centre de la salle, et la musique vient de ce derni
 ## Liste des composantes et techniques de l'oeuvre / du dispositif 
 contreplaqué baltique, transducteurs, amplificateur, interface audio, détecteurs de mouvement, ordinateur, alimentation
 
+#### Photographies des composantes de l'oeuvre
+<img src="media_notes/cartel_exposition.jpg" width="400" height="600">
+
+
 ##  Liste des éléments nécessaires pour la mise en exposition
 --
 
