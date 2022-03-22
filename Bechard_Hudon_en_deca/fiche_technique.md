@@ -23,7 +23,7 @@ Cette oeuvre, qui est en contreplaqué, veut inviter le public à le toucher et 
 L'oeuvre est situé au plein centre de la salle, et la musique vient de ce dernier.  
 
 ## Liste des composantes et techniques de l'oeuvre / du dispositif 
---
+Mac mini
 
 ##  Liste des éléments nécessaires pour la mise en exposition
 --
@@ -34,7 +34,7 @@ L'oeuvre est situé au plein centre de la salle, et la musique vient de ce derni
 C'étais vraiment relaxant, j'ai vraiment aimée l'ambiance que l'endroit émanais. Puisque nous étions invités à toucher l'oeuvre, il était possible de ressentir les vibrations et c'étais vraiment appaisant de juste s'appuyer ou s'assoir tout en touchant l'oeuvre. De plus la musique étais pas trop forte et donc c'étais plus invitant de rester dans l'oeuvre et à l'apprécier.
 
 ## Ce qui vous a plu, vous a donné des idées, justifiez
---
+j'ai vraiment aimer le fais que l'oeuvre est très minimaliste, j'ai aimer juste m'accoter ou m'assoir tout en touchant l'oeuvre sans vraiment penser, juste ressentir les vibration et vivre le moment.
 
 ## Aspect du projet a ne pas retenir pour propre réalisation, justifiez
 --
