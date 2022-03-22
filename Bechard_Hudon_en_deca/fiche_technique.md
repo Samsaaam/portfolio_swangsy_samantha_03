@@ -1,7 +1,7 @@
 ## Titre de l'oeuvre
 L'en deçà
 
-<img src="media_oeuvre/Unfold_05.jpeg" width="500" height="600">
+<img src="media_oeuvre/intérieur.jpg" width="400" height="600">
 
 ## Nom de l'artiste / de la firme
 Béchard Hudon
